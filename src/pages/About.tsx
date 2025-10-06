@@ -110,9 +110,11 @@ const About = () => {
             animate={{ opacity: 1, y: 0 }}
             transition={{ delay: 0.3 }}
           >
-            For over a decade, Pills4Sale UK has been the trusted pharmaceutical partner for thousands 
-            of customers across the United Kingdom. We combine cutting-edge technology with traditional 
-            values of care, quality, and reliability to deliver exceptional pharmaceutical services.
+            Pills for sale UK includes popular prescription medications (sleeping pills for sale UK, buy painkillers UK, 
+            buy anxiety medications online and buy sleeping pills in UK) like Buy Adderall Online, Clonazepam, Concerta, 
+            Mounjaro, OxyContin, Percocet, and Tilidin — all supplied only from your reliable and trusted drugstore with 
+            valid prescriptions. Whether it’s ADHD treatments, blood sugar management, pain relief, or sleep aids, every 
+            medication is authentic, safely packaged, and shipped securely to your location.
           </motion.p>
 
           <motion.div 
@@ -395,6 +397,10 @@ const About = () => {
               health and wellbeing. Our commitment extends beyond simply dispensing medications – 
               we're dedicated to being your trusted healthcare partner, providing the expertise, 
               support, and care you deserve.
+              Our selection includes popular prescription medications like Buy Adderall Online, Clonazepam, 
+              Concerta, Mounjaro, OxyContin, Percocet, and Tilidin — all supplied only from your reliable and 
+              trusted drugstore with valid prescriptions. Whether it’s ADHD treatments, blood sugar management, 
+              pain relief, or sleep aids, every medication is authentic, safely packaged, and shipped securely to your location.
             </p>
             
             <div className="grid md:grid-cols-3 gap-6 mb-8">
