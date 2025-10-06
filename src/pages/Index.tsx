@@ -19,7 +19,7 @@ const Index = () => {
         <header className="mb-8">
           <h2 className="text-2xl font-semibold">Featured Products</h2>
           <p className="mt-1 text-muted-foreground">
-            A curated selection to help you get started.
+            Find pills for sale from your reliable and trusted drugstore, including sleeping pills for sale UK and options to buy sleeping pills in UK, all provided with clinical guidance and secure delivery. A curated selection to help you get started.
           </p>
         </header>
         <div className="grid gap-6 sm:grid-cols-2 lg:grid-cols-3">
