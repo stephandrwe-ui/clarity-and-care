@@ -30,7 +30,10 @@ const Hero = () => {
             transition={{ duration: 0.6, ease: "easeOut", delay: 0.1 }}
             className="mt-4 text-lg text-muted-foreground"
           >
-            Explore trusted products, understand benefits and dosages, and make informed health decisions.
+            Pills for sale UK include popular prescription medications such as sleeping pills for sale UK, buy painkillers UK, buy anxiety medications online, and buy sleeping pills in UK. 
+            This selection features trusted treatments like Buy Adderall Online, Clonazepam, Concerta, Mounjaro, OxyContin, Percocet, and Tilidin — all supplied only from your reliable and 
+            trusted drugstore with valid prescriptions. 
+            Whether you need ADHD treatments, blood sugar management, pain relief, or sleep aids, every medication is authentic, safely packaged, and shipped securely to your location.
           </motion.p>
           <motion.div
             initial={{ opacity: 0, y: 8 }}
