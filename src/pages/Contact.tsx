@@ -21,7 +21,7 @@ const Contact = () => {
       <div className="mt-4 rounded-lg border border-amber-200 bg-amber-50 p-4">
         <h2 className="font-semibold text-amber-800">Alternative Payment Methods</h2>
         <p className="mt-1 text-sm text-amber-700">
-          We primarily accept Bitcoin payments. If you need to use other payment methods (credit card, bank transfer, etc.), 
+          We primarily accept Bitcoin payments. If you need to use other payment methods (Bank transfer or Any Other Method.), 
           please use the form below and we'll get back to you with payment options.
         </p>
       </div>
