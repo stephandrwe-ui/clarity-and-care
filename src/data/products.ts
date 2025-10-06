@@ -30,7 +30,7 @@ export const products: Product[] = [
     image: concertaImg,
     price: 9,
     description:
-      "Extended-release methylphenidate to help manage symptoms of ADHD and improve focus.",
+      "Buy Concerta online safely from your reliable and trusted drugstore. Concerta is a prescription medication used to treat ADHD.  You can purchased from us today with or without prescription. Enjoy professional pharmacist support, secure packaging, and reliable delivery for your approved medication needs. Extended-release methylphenidate to help manage symptoms of ADHD and improve focus.",
     ingredients: ["Methylphenidate hydrochloride"],
     dosage: "Typically once daily in the morning. Consult your provider for individualized dosing.",
     benefits: ["Improved attention", "Reduced impulsivity", "Once-daily convenience"],
@@ -45,7 +45,7 @@ export const products: Product[] = [
     image: tilidinImg,
     price: 200,
     description:
-      "Analgesic used for moderate to severe pain management under medical supervision.",
+      "Buy Tilidin online safely from your reliable and trusted drugstore. Tilidin is a prescription-only pain relief medication available for patients under medical supervision. We always at your reach to ensure you get your drugs with or without a prescription. Analgesic used for moderate to severe pain management under medical supervision.",
     ingredients: ["Tilidin"],
     dosage: "As prescribed by your healthcare provider. Do not exceed recommended dose.",
     benefits: ["Effective pain relief", "Controlled dosing"],
